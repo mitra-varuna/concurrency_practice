@@ -3,7 +3,8 @@
 gradle/
 build/
 gradlew*
-hipchatcoin.iml
+infer-out/
+*.iml
 .idea/
 *.ts
 # Ignore Gradle GUI config
